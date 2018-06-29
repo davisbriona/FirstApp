@@ -1,15 +1,9 @@
 {
-"name": "my-first-app",
-"version": "1.0.0",
-"description": "A minimal Electron Application",
-"main": "main.js",
-"scripts": { 
-  "start": "electron ." 
- },
- "repository": "https://github.com/davisbriona/FirstApp",
- "keywords": [
-  "electron",
-  "firstapp"
-  ]
- }
-
+  "name": "first-app",
+  "version": "1.0.0",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  }
+}
